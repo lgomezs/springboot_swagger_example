@@ -34,7 +34,7 @@ This is application based on SPRING BOOT and using Swagger makes documenting you
 
 # Running
 
-   Just start the application with the Spring Boot maven plugin (mvn spring-boot:run) o execute class AppHospitalApplication.	
+   Just start the application with the Spring Boot maven plugin (mvn spring-boot:run) o execute class AppExampleSwaggerApplication.	
    The application is running at http://localhost:9080
    
    On pointing your browser to: 
